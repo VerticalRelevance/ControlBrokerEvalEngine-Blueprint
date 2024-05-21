@@ -21,7 +21,7 @@ msgpack==1.0.3
 psutil==5.9.0
 python-dateutil==2.8.2
 pyzmq==22.3.0
-requests==2.27.1
+requests==2.32.0
 roundrobin==0.0.2
 s3transfer==0.5.1
 six==1.16.0
